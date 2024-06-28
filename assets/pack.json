@@ -4,48 +4,48 @@
       {
         "type": "image",
         "key": "blue-candy",
-        "url": "../assets/images/blue-candy.png"
+        "url": "./assets/images/blue-candy.png"
       },
       {
         "type": "image",
         "key": "green-candy",
-        "url": "../assets/images/green-candy.png"
+        "url": "./assets/images/green-candy.png"
       },
       {
         "type": "image",
         "key": "orange-candy",
-        "url": "../assets/images/orange-candy.png"
+        "url": "./assets/images/orange-candy.png"
       },
       {
         "type": "image",
         "key": "purple-candy",
-        "url": "../assets/images/purple-candy.png"
+        "url": "./assets/images/purple-candy.png"
       },
       {
         "type": "image",
         "key": "red-candy",
-        "url": "../assets/images/red-candy.png"
+        "url": "./assets/images/red-candy.png"
       },
       {
         "type": "image",
         "key": "white",
-        "url": "../assets/images/white.png"
+        "url": "./assets/images/white.png"
       },
       {
         "type": "image",
         "key": "white_flare",
-        "url": "../assets/images/white-flare.png"
+        "url": "./assets/images/white-flare.png"
       },
       {
         "type": "image",
         "key": "background",
-        "url": "../assets/images/background.png"
+        "url": "./assets/images/background.png"
       },
       {
         "type": "atlas",
         "key": "confetti",
-        "textureURL": "../assets/images/confetti.png",
-        "atlasURL": "../assets/images/confetti.json"
+        "textureURL": "./assets/images/confetti.png",
+        "atlasURL": "./assets/images/confetti.json"
       }
     ]
   }
